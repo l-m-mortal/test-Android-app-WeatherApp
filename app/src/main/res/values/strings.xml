@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="logo">Weather application</string>
+    <string name="Hint_userField">input city</string>
+    <string name="mainBtn">get weather</string>
+    <string name="noUserInput">inputText</string>
+</resources>
